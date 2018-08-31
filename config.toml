@@ -1,0 +1,4 @@
+baseurl = "https://mpseb.github.io/"
+languageCode = "pt-br"
+title = "Moisés P. Sena's Estudos Bíblicos"
+theme = "learn"
