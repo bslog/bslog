@@ -3,5 +3,5 @@
 	url = https://github.com/matcornic/hugo-theme-learn.git
 [submodule "public"]
 	path = public
-	url = git@github.com:mpseb/mpseb.github.io.git
+	url = git@github.com:bslog/bslog.github.io.git
 	branch = master
