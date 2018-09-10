@@ -2,3 +2,36 @@ baseurl = "https://mpseb.github.io/"
 languageCode = "pt-br"
 title = "Moisés P. Sena's Estudos Bíblicos"
 theme = "learn"
+defaultContentLanguage = "br"
+markup = "mmark"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages]
+
+[languages.en]
+weight = 0
+title = "Moisés P. Sena's Bible Study Log"
+languagename = "English"
+
+[[languages.en.menu.main]]
+url = "/home"
+name = "Home"
+weight = 0
+
+[languages.br]
+weight = 1
+title = "Registro de Estudo Bíblico - Por Moisés P. Sena"
+languagename = "Português do Brasil"
+
+[[languages.br.menu.main]]
+url = "/inicio"
+name = "Início"
+weight = 0
+
+
+[params]
+  author = "Moisés P. Sena"
+  description = "Biblical Study Log"
+  themeVariant = "bslog"
