@@ -1,2 +1,2 @@
-# mpseb
-Site generator for https://github.com/mpseb/mpseb.github.io
+# bslog
+Site generator for https://bslog.github.io
